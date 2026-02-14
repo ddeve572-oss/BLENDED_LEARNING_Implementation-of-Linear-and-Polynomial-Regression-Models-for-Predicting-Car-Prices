@@ -95,40 +95,11 @@ plt.show()
 
 ## Output:
 
-diesel  gas  std  turbo  convertible  hardtop  hatchback  sedan  wagon  \
-0     0.0  1.0  1.0    0.0          1.0      0.0        0.0    0.0    0.0   
-1     0.0  1.0  1.0    0.0          1.0      0.0        0.0    0.0    0.0   
-2     0.0  1.0  1.0    0.0          0.0      0.0        1.0    0.0    0.0   
-3     0.0  1.0  1.0    0.0          0.0      0.0        0.0    1.0    0.0   
-4     0.0  1.0  1.0    0.0          0.0      0.0        0.0    1.0    0.0   
+![alt text](Screenshot_14-2-2026_13455_localhost.jpeg)
 
-   4wd  ...  wheelbase  curbweight  enginesize  boreratio  horsepower  \
-0  0.0  ...       88.6      2548.0       130.0       3.47       111.0   
-1  0.0  ...       88.6      2548.0       130.0       3.47       111.0   
-2  0.0  ...       94.5      2823.0       152.0       2.68       154.0   
-3  0.0  ...       99.8      2337.0       109.0       3.19       102.0   
-4  1.0  ...       99.4      2824.0       136.0       3.19       115.0   
+![alt text](Screenshot_14-2-2026_134532_localhost.jpeg)
 
-   carlength  carwidth  citympg  highwaympg    price  
-0      168.8      64.1     21.0        27.0  13495.0  
-1      168.8      64.1     21.0        27.0  16500.0  
-2      171.2      65.5     19.0        26.0  16500.0  
-3      176.6      66.2     24.0        30.0  13950.0  
-4      176.6      66.4     18.0        22.0  17450.0  
-
-[5 rows x 36 columns]
-
-Name: devendran /AIML
-Reg. No:212225240030
-Linear Regression:
-MSE= 16471505.900042146
-R2 Score= 0.7913520781370976
-
-Polynomial Regression:
-MSE:  15247661.892214
-R²: 0.81
-
-<Figure size 1000x500 with 1 Axes>
+![alt text](image.png)
 
 ## Result:
 Thus, the program to implement Linear and Polynomial Regression models for predicting car prices was written and verified using Python programming.
